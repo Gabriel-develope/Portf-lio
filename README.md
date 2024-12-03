@@ -19,8 +19,6 @@ Projeto desenvolvido como parte da faculdade de Análise e Desenvolvimento de Si
 ## 🔧 Como Executar o Projeto
 
 1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
 Abra o arquivo index.html em seu navegador.
 📌 Funcionalidades
 Exibição de projetos com descrições.
